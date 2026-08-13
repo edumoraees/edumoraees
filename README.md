@@ -40,4 +40,4 @@ Projeto desenvolvido durante formação em Engenharia de Dados na Compass UOL, e
 
 ## Contato
 
-* LinkedIn: Luis Eduardo Moraes
+* LinkedIn: luismoraesss
