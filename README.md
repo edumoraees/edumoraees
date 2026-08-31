@@ -1,4 +1,4 @@
-# Olá, eu sou Luis Eduardo 👋
+# Olá, eu sou Luis Eduardo 
 
 Sou profissional de tecnologia e estudante de Ciência da Computação, com experiência em sistemas, bancos de dados e infraestrutura, direcionando minha carreira para **Engenharia de Dados e Cloud Computing**.
 
@@ -28,7 +28,7 @@ Projeto desenvolvido durante formação em Engenharia de Dados na Compass UOL, e
 * integração com API externa;
 * dashboard analítico com Amazon QuickSight.
 
-➡️ Confira o projeto no repositório `scholarship-compass`.
+Confira o projeto no repositório `scholarship-compass`.
 
 ## Atualmente estudando
 
