@@ -14,7 +14,7 @@
 
 Sou estudante de **Ciência da Computação** e profissional de tecnologia, com experiência em sistemas, bancos de dados e infraestrutura.
 
-Atualmente, meus estudos e projetos estão voltados para **Engenharia de Dados**, com foco na construção de pipelines, processamento e transformação de dados e soluções em cloud utilizando **Python, SQL, PySpark e AWS**.
+Atualmente, meus estudos e projetos estão voltados para **Engenharia de Dados**, com foco em construção de pipelines, processamento e transformação de dados e soluções em cloud utilizando **Python, SQL, PySpark e AWS**.
 
 Tenho interesse principalmente em arquitetura de dados, ETL/ELT, Data Lakes e processamento distribuído.
 
@@ -40,7 +40,7 @@ Tenho interesse principalmente em arquitetura de dados, ETL/ELT, Data Lakes e pr
 
 ### AWS Data Lake — Compass UOL
 
-Projeto desenvolvido durante minha formação em **Engenharia de Dados na Compass UOL**, envolvendo a construção de um pipeline de dados utilizando serviços da AWS.
+Projeto desenvolvido durante minha formação em **Engenharia de Dados na Compass UOL**, envolvendo a construção de um pipeline completo de dados utilizando serviços da AWS.
 
 ### Arquitetura
 
@@ -72,11 +72,11 @@ Projeto desenvolvido durante minha formação em **Engenharia de Dados na Compas
 - Organização do Data Lake em camadas **Raw, Trusted e Refined**
 - Desenvolvimento de pipelines ETL com **Python e PySpark**
 - Utilização de **AWS Glue Jobs, Crawlers e Data Catalog**
-- Consultas analíticas com **Amazon Athena**
+- Consultas analíticas utilizando **Amazon Athena**
 - Modelagem dimensional em **Star Schema**
 - Processamento e armazenamento em **Parquet**
 - Integração com API externa
-- Desenvolvimento de dashboard com **Amazon QuickSight**
+- Desenvolvimento de dashboard analítico com **Amazon QuickSight**
 
 <p align="center">
   <a href="https://github.com/edumoraees/scholarship-compass">
@@ -102,12 +102,8 @@ Projeto desenvolvido durante minha formação em **Engenharia de Dados na Compas
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edumoraees&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumoraees&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edumoraees&theme=tokyonight&hide_border=true" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
 
 ---
